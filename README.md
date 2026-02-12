@@ -192,3 +192,5 @@ Path found: ['A', 'E', 'D', 'G']
 <h2>OUTPUT</h2>
 <img width="307" height="359" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/3be47d95-e636-42ee-9123-279a012c275e" />
 
+<h2>Result:</h2>
+Thus the A* algorithm is verified successfully.
